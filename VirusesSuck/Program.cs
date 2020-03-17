@@ -126,7 +126,7 @@ namespace VirusesSuck
 
             foreach (var virus in viruses)
             {
-                Console.WriteLine($"The {virus.Name} has an incubation period of {virus.IncubationDays} and has killed {virus.NumberOfDeathsWorldWide}");
+                Console.WriteLine($"The {virus.Name} virus has an incubation period of {virus.IncubationDays} and has killed {virus.NumberOfDeathsWorldWide} worldwide");
                 Console.WriteLine($"It has the following symptoms: {string.Join(", ", virus.Symptoms)}");
             }
         }
