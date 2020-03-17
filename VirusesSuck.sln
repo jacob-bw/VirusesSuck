@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirusesSuck", "VirusesSuck\VirusesSuck.csproj", "{BA442067-EBDF-462D-AA13-2E1DACA80186}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA442067-EBDF-462D-AA13-2E1DACA80186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA442067-EBDF-462D-AA13-2E1DACA80186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA442067-EBDF-462D-AA13-2E1DACA80186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA442067-EBDF-462D-AA13-2E1DACA80186}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2DC8434-63DE-4928-A539-73943BF604F0}
+	EndGlobalSection
+EndGlobal
