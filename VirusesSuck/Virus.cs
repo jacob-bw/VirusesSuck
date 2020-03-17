@@ -15,7 +15,7 @@ namespace VirusesSuck
         {
             Name = name;
             IncubationDays = incubationDays;
-
+            Symptoms = new List<string>();
         }
     }
 }
